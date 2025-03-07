@@ -1,1 +1,3 @@
 # sqlalchemy-challenge
+
+For this challenge I leveraged previous class materials and resources such as Stack Overflow and Xpert Learning assistant. I was able to successfully run part 1 of the assignment, but had issues with part 2. The flask API routes are set up, but are not returning the data properly. I understand the concept of the material and will continue to troubleshoot as I work through more assignments like this. 
